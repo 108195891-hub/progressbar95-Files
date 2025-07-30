@@ -1,0 +1,843 @@
+{
+  "project_info": {
+    "project_number": "125540754926",
+    "firebase_url": "https://shs2firebase.firebaseio.com",
+    "project_id": "shs2firebase",
+    "storage_bucket": "shs2firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125540754926:android:2a45f563fbe92a67",
+        "android_client_info": {
+          "package_name": "android.uniwar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx3iPCRZLXwn8V6PHGHtJ_W-fvpF-OFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125540754926-3u3rhcv3n9dlc83gcuukrl9jsicb2paq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spookyhousestudios.piratebay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125540754926:android:4a8970b7901c205a",
+        "android_client_info": {
+          "package_name": "com.spookyhousestudios.bidot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125540754926-jssul21airj43o08tadt3avs0evtr4gs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spookyhousestudios.bidot",
+            "certificate_hash": "e8c3e04f166a8f9afc0d402642fba45c1d2e40c8"
+          }
+        },
+        {
+          "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx3iPCRZLXwn8V6PHGHtJ_W-fvpF-OFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125540754926-3u3rhcv3n9dlc83gcuukrl9jsicb2paq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spookyhousestudios.piratebay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125540754926:android:2fa7ca5519da04c9",
+        "android_client_info": {
+          "package_name": "com.spookyhousestudios.blackwhitepuzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125540754926-14pajp60s7c8lr86p88lsqpt1hhc0vaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spookyhousestudios.blackwhitepuzzle",
+            "certificate_hash": "e8c3e04f166a8f9afc0d402642fba45c1d2e40c8"
+          }
+        },
+        {
+          "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx3iPCRZLXwn8V6PHGHtJ_W-fvpF-OFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125540754926-3u3rhcv3n9dlc83gcuukrl9jsicb2paq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spookyhousestudios.piratebay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125540754926:android:242b1134827348ff",
+        "android_client_info": {
+          "package_name": "com.spookyhousestudios.bubbleexplode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125540754926-gip9sn3imstrubtmnkegdffnvquea2a8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spookyhousestudios.bubbleexplode",
+            "certificate_hash": "e8c3e04f166a8f9afc0d402642fba45c1d2e40c8"
+          }
+        },
+        {
+          "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx3iPCRZLXwn8V6PHGHtJ_W-fvpF-OFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125540754926-3u3rhcv3n9dlc83gcuukrl9jsicb2paq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spookyhousestudios.piratebay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125540754926:android:357dfe1127e136fc",
+        "android_client_info": {
+          "package_name": "com.spookyhousestudios.bubbleshootix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125540754926-j236d4pj806nmu085qca1esch3pd9t0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spookyhousestudios.bubbleshootix",
+            "certificate_hash": "e8c3e04f166a8f9afc0d402642fba45c1d2e40c8"
+          }
+        },
+        {
+          "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx3iPCRZLXwn8V6PHGHtJ_W-fvpF-OFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125540754926-3u3rhcv3n9dlc83gcuukrl9jsicb2paq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spookyhousestudios.piratebay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125540754926:android:4b4953d3033c1de5",
+        "android_client_info": {
+          "package_name": "com.spookyhousestudios.digbombers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125540754926-b8rtup5asfckabkisc67kv335qbe0bgq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spookyhousestudios.digbombers",
+            "certificate_hash": "e8c3e04f166a8f9afc0d402642fba45c1d2e40c8"
+          }
+        },
+        {
+          "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx3iPCRZLXwn8V6PHGHtJ_W-fvpF-OFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125540754926-3u3rhcv3n9dlc83gcuukrl9jsicb2paq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spookyhousestudios.piratebay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125540754926:android:797adbd037f720f1",
+        "android_client_info": {
+          "package_name": "com.spookyhousestudios.hammer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx3iPCRZLXwn8V6PHGHtJ_W-fvpF-OFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125540754926-3u3rhcv3n9dlc83gcuukrl9jsicb2paq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spookyhousestudios.piratebay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125540754926:android:fab5d9f4a25a1b75",
+        "android_client_info": {
+          "package_name": "com.spookyhousestudios.jeweldestroyer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125540754926-7c8jfq0ksl4dfda8ovgeonohrvpolekf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spookyhousestudios.jeweldestroyer",
+            "certificate_hash": "e8c3e04f166a8f9afc0d402642fba45c1d2e40c8"
+          }
+        },
+        {
+          "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx3iPCRZLXwn8V6PHGHtJ_W-fvpF-OFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125540754926-3u3rhcv3n9dlc83gcuukrl9jsicb2paq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spookyhousestudios.piratebay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125540754926:android:b5b93a26d6aa2b13",
+        "android_client_info": {
+          "package_name": "com.spookyhousestudios.jewelgems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125540754926-psnt7b9up0ug3ovg92hpsqp88d90u19t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spookyhousestudios.jewelgems",
+            "certificate_hash": "e8c3e04f166a8f9afc0d402642fba45c1d2e40c8"
+          }
+        },
+        {
+          "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx3iPCRZLXwn8V6PHGHtJ_W-fvpF-OFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125540754926-3u3rhcv3n9dlc83gcuukrl9jsicb2paq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spookyhousestudios.piratebay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125540754926:android:1c2c78a127ae9230",
+        "android_client_info": {
+          "package_name": "com.spookyhousestudios.minecart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125540754926-a2j65vfdv2enqcu7tp636oegd4c85akk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spookyhousestudios.minecart",
+            "certificate_hash": "e8c3e04f166a8f9afc0d402642fba45c1d2e40c8"
+          }
+        },
+        {
+          "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx3iPCRZLXwn8V6PHGHtJ_W-fvpF-OFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125540754926-3u3rhcv3n9dlc83gcuukrl9jsicb2paq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spookyhousestudios.piratebay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125540754926:android:6392e3cd04f62c61",
+        "android_client_info": {
+          "package_name": "com.spookyhousestudios.paper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx3iPCRZLXwn8V6PHGHtJ_W-fvpF-OFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125540754926-3u3rhcv3n9dlc83gcuukrl9jsicb2paq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spookyhousestudios.piratebay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125540754926:android:d171509a05565de8",
+        "android_client_info": {
+          "package_name": "com.spookyhousestudios.poweroftwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125540754926-v24o30hio7qsetoas8fvasdm40es6amq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spookyhousestudios.poweroftwo",
+            "certificate_hash": "e8c3e04f166a8f9afc0d402642fba45c1d2e40c8"
+          }
+        },
+        {
+          "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx3iPCRZLXwn8V6PHGHtJ_W-fvpF-OFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125540754926-3u3rhcv3n9dlc83gcuukrl9jsicb2paq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spookyhousestudios.piratebay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125540754926:android:7d45ff7a35bf795696daff",
+        "android_client_info": {
+          "package_name": "com.spookyhousestudios.progressbar95"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx3iPCRZLXwn8V6PHGHtJ_W-fvpF-OFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125540754926-3u3rhcv3n9dlc83gcuukrl9jsicb2paq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spookyhousestudios.piratebay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125540754926:android:83bb019e7a8cc432",
+        "android_client_info": {
+          "package_name": "com.spookyhousestudios.pumpkinxplode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125540754926-rf2teiraftl3p63vok4tjkolqn5biblj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spookyhousestudios.pumpkinxplode",
+            "certificate_hash": "e8c3e04f166a8f9afc0d402642fba45c1d2e40c8"
+          }
+        },
+        {
+          "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx3iPCRZLXwn8V6PHGHtJ_W-fvpF-OFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125540754926-3u3rhcv3n9dlc83gcuukrl9jsicb2paq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spookyhousestudios.piratebay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125540754926:android:4c92bb2173e4ca7a",
+        "android_client_info": {
+          "package_name": "com.spookyhousestudios.railmaze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125540754926-22cfb5m0t3upcd3qkmo92kr7t0sc6uhc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spookyhousestudios.railmaze",
+            "certificate_hash": "e8c3e04f166a8f9afc0d402642fba45c1d2e40c8"
+          }
+        },
+        {
+          "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx3iPCRZLXwn8V6PHGHtJ_W-fvpF-OFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125540754926-3u3rhcv3n9dlc83gcuukrl9jsicb2paq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spookyhousestudios.piratebay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125540754926:android:bb00cc8392ff3ab7",
+        "android_client_info": {
+          "package_name": "com.spookyhousestudios.railmaze2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125540754926-be6ekoq098qruu47hleq5p8p4dq8i2rb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spookyhousestudios.railmaze2",
+            "certificate_hash": "e8c3e04f166a8f9afc0d402642fba45c1d2e40c8"
+          }
+        },
+        {
+          "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx3iPCRZLXwn8V6PHGHtJ_W-fvpF-OFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125540754926-3u3rhcv3n9dlc83gcuukrl9jsicb2paq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spookyhousestudios.piratebay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125540754926:android:0f44443e10b9de2e",
+        "android_client_info": {
+          "package_name": "com.spookyhousestudios.scratchcards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125540754926-nqp2eibvqrq32r0t2h8qp3l9bhvll2qr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spookyhousestudios.scratchcards",
+            "certificate_hash": "e8c3e04f166a8f9afc0d402642fba45c1d2e40c8"
+          }
+        },
+        {
+          "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx3iPCRZLXwn8V6PHGHtJ_W-fvpF-OFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125540754926-3u3rhcv3n9dlc83gcuukrl9jsicb2paq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spookyhousestudios.piratebay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125540754926:android:90056e42ce499e32",
+        "android_client_info": {
+          "package_name": "com.spookyhousestudios.submarine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125540754926-8h6itbnrafnupa4jjeutk3hietluhnj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spookyhousestudios.submarine",
+            "certificate_hash": "e8c3e04f166a8f9afc0d402642fba45c1d2e40c8"
+          }
+        },
+        {
+          "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx3iPCRZLXwn8V6PHGHtJ_W-fvpF-OFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125540754926-3u3rhcv3n9dlc83gcuukrl9jsicb2paq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spookyhousestudios.piratebay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125540754926:android:adf8f2ad6dbefc37",
+        "android_client_info": {
+          "package_name": "com.spookyhousestudios.tilepuzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx3iPCRZLXwn8V6PHGHtJ_W-fvpF-OFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125540754926-3u3rhcv3n9dlc83gcuukrl9jsicb2paq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spookyhousestudios.piratebay"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125540754926:android:d8eec64012b14ee1",
+        "android_client_info": {
+          "package_name": "com.spookyhousestudios.tringles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpx3iPCRZLXwn8V6PHGHtJ_W-fvpF-OFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125540754926-31tngt4ovdl0s71747g4q0rjj0sbvnma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125540754926-3u3rhcv3n9dlc83gcuukrl9jsicb2paq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spookyhousestudios.piratebay"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
